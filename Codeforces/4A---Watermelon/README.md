@@ -73,4 +73,5 @@ For example, the boys can divide the watermelon into two parts of 2 and 6 kilos 
 | 23 | 385051644 | Aug/01/2026 10:00UTC+5.5 | ✅ Accepted | 530 ms | 1800 KB | Java 21 | [`385051644_Attempt_23_AC.java`](./385051644_Attempt_23_AC.java) |
 | 24 | 385231455 | Aug/02/2026 11:27UTC+5.5 | ✅ Accepted | 500 ms | 1700 KB | Java 21 | [`385231455_Attempt_24_AC.java`](./385231455_Attempt_24_AC.java) |
 | 25 | 385520577 | Aug/04/2026 15:32UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | Java 21 | [`385520577_Attempt_25_CE.java`](./385520577_Attempt_25_CE.java) |
-| 26 | 385893277 | Aug/06/2026 19:11UTC+5.5 | ❌ Wrong answer on test 2 | 62 ms | 0 KB | C++20 (GCC 13-64) | [`385893277_Attempt_26_WA.cpp`](./385893277_Attempt_26_WA.cpp) |
+| 26 | 385893277 | Aug/06/2026 19:11UTC+5.5 | ❌ Wrong answer on test 2 | 62 ms | 0 KB | C++20 (GCC 13-64) | [`385893277_Attempt_26_WA.cpp`](./385893277_Attempt_26_WA.cpp) |
+| 27 | 385893679 | Aug/06/2026 19:14UTC+5.5 | ✅ Accepted | 92 ms | 100 KB | C++20 (GCC 13-64) | [`385893679_Attempt_27_AC.cpp`](./385893679_Attempt_27_AC.cpp) |
