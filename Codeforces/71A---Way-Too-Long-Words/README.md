@@ -58,4 +58,5 @@ p43s
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 384788797 | Jul/29/2026 22:35UTC+5.5 | ✅ Accepted | 140 ms | 0 KB | Java 8 | [`384788797_Attempt_1_AC.java`](./384788797_Attempt_1_AC.java) |
 | 2 | 385233812 | Aug/02/2026 11:49UTC+5.5 | ✅ Accepted | 218 ms | 1300 KB | Java 21 | [`385233812_Attempt_2_AC.java`](./385233812_Attempt_2_AC.java) |
-| 3 | 385895046 | Aug/06/2026 19:23UTC+5.5 | ❌ Wrong answer on test 1 | 15 ms | 0 KB | C++20 (GCC 13-64) | [`385895046_Attempt_3_WA.cpp`](./385895046_Attempt_3_WA.cpp) |
+| 3 | 385895046 | Aug/06/2026 19:23UTC+5.5 | ❌ Wrong answer on test 1 | 15 ms | 0 KB | C++20 (GCC 13-64) | [`385895046_Attempt_3_WA.cpp`](./385895046_Attempt_3_WA.cpp) |
+| 4 | 385895244 | Aug/06/2026 19:25UTC+5.5 | ❌ Wrong answer on test 1 | 31 ms | 0 KB | C++20 (GCC 13-64) | [`385895244_Attempt_4_WA.cpp`](./385895244_Attempt_4_WA.cpp) |
