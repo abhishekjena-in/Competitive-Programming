@@ -61,4 +61,5 @@ p43s
 | 3 | 385895046 | Aug/06/2026 19:23UTC+5.5 | ❌ Wrong answer on test 1 | 15 ms | 0 KB | C++20 (GCC 13-64) | [`385895046_Attempt_3_WA.cpp`](./385895046_Attempt_3_WA.cpp) |
 | 4 | 385895244 | Aug/06/2026 19:25UTC+5.5 | ❌ Wrong answer on test 1 | 31 ms | 0 KB | C++20 (GCC 13-64) | [`385895244_Attempt_4_WA.cpp`](./385895244_Attempt_4_WA.cpp) |
 | 5 | 385895455 | Aug/06/2026 19:26UTC+5.5 | ❌ Wrong answer on test 1 | 15 ms | 0 KB | C++20 (GCC 13-64) | [`385895455_Attempt_5_WA.cpp`](./385895455_Attempt_5_WA.cpp) |
-| 6 | 385895573 | Aug/06/2026 19:27UTC+5.5 | ❌ Wrong answer on test 2 | 78 ms | 0 KB | C++20 (GCC 13-64) | [`385895573_Attempt_6_WA.cpp`](./385895573_Attempt_6_WA.cpp) |
+| 6 | 385895573 | Aug/06/2026 19:27UTC+5.5 | ❌ Wrong answer on test 2 | 78 ms | 0 KB | C++20 (GCC 13-64) | [`385895573_Attempt_6_WA.cpp`](./385895573_Attempt_6_WA.cpp) |
+| 7 | 385895757 | Aug/06/2026 19:28UTC+5.5 | ✅ Accepted | 46 ms | 100 KB | C++20 (GCC 13-64) | [`385895757_Attempt_7_AC.cpp`](./385895757_Attempt_7_AC.cpp) |
