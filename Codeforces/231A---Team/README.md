@@ -69,4 +69,5 @@ In the second sample the friends will only implement the second problem, as Vasy
 | 1 | 385233943 | Aug/02/2026 11:51UTC+5.5 | ✅ Accepted | 530 ms | 700 KB | Java 21 | [`385233943_Attempt_1_AC.java`](./385233943_Attempt_1_AC.java) |
 | 2 | 385897727 | Aug/06/2026 19:44UTC+5.5 | ❌ Time limit exceeded on test 1 | 2000 ms | 0 KB | C++20 (GCC 13-64) | [`385897727_Attempt_2_TLE.cpp`](./385897727_Attempt_2_TLE.cpp) |
 | 3 | 385897781 | Aug/06/2026 19:44UTC+5.5 | ❌ Time limit exceeded on test 1 | 2000 ms | 0 KB | C++20 (GCC 13-64) | [`385897781_Attempt_3_TLE.cpp`](./385897781_Attempt_3_TLE.cpp) |
-| 4 | 385897867 | Aug/06/2026 19:45UTC+5.5 | ❌ Time limit exceeded on test 1 | 2000 ms | 0 KB | C++20 (GCC 13-64) | [`385897867_Attempt_4_TLE.cpp`](./385897867_Attempt_4_TLE.cpp) |
+| 4 | 385897867 | Aug/06/2026 19:45UTC+5.5 | ❌ Time limit exceeded on test 1 | 2000 ms | 0 KB | C++20 (GCC 13-64) | [`385897867_Attempt_4_TLE.cpp`](./385897867_Attempt_4_TLE.cpp) |
+| 5 | 385897947 | Aug/06/2026 19:45UTC+5.5 | ❌ Wrong answer on test 1 | 62 ms | 0 KB | C++20 (GCC 13-64) | [`385897947_Attempt_5_WA.cpp`](./385897947_Attempt_5_WA.cpp) |
