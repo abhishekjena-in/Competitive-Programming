@@ -89,3 +89,4 @@ N/A
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/8/2026, 2:33:08 PM | ❌ Time Limit Exceeded | C++ | [`2098884090_Attempt_1_TLE.cpp`](./2098884090_Attempt_1_TLE.cpp) |
 | 2 | 8/8/2026, 2:54:28 PM | ❌ Runtime Error | C++ | [`2098905678_Attempt_2_RTE.cpp`](./2098905678_Attempt_2_RTE.cpp) |
+| 3 | 8/8/2026, 3:05:05 PM | ❌ Runtime Error | C++ | [`2098916588_Attempt_3_RTE.cpp`](./2098916588_Attempt_3_RTE.cpp) |
