@@ -102,3 +102,4 @@ N/A
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/8/2026, 12:34:39 PM | ❌ Runtime Error | C++ | [`2098779033_Attempt_1_RTE.cpp`](./2098779033_Attempt_1_RTE.cpp) |
+| 2 | 8/8/2026, 12:35:30 PM | ❌ Time Limit Exceeded | C++ | [`2098779900_Attempt_2_TLE.cpp`](./2098779900_Attempt_2_TLE.cpp) |
