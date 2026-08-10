@@ -30,3 +30,4 @@ _No sample test cases provided._
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/10/2026, 9:54:26 PM | ❌ Wrong Answer | Java | [`gfg_1786379060584_Attempt_1_WA.java`](./gfg_1786379060584_Attempt_1_WA.java) |
+| 2 | 8/10/2026, 9:57:11 PM | ✅ Accepted | Java | [`gfg_1786379226095_Attempt_2_AC.java`](./gfg_1786379226095_Attempt_2_AC.java) |
