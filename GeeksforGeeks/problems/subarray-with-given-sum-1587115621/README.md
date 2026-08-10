@@ -32,3 +32,4 @@ _No sample test cases provided._
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/10/2026, 9:32:53 PM | ✅ Accepted | Java | [`gfg_1786377767208_Attempt_1_AC.java`](./gfg_1786377767208_Attempt_1_AC.java) |
+| 2 | 8/10/2026, 9:46:26 PM | ✅ Accepted | C++ | [`gfg_1786378580653_Attempt_2_AC.cpp`](./gfg_1786378580653_Attempt_2_AC.cpp) |
