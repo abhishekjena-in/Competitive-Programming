@@ -90,3 +90,4 @@ N/A
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/13/2026, 11:02:13 AM | ❌ Time Limit Exceeded | C++ | [`2105005120_Attempt_1_TLE.cpp`](./2105005120_Attempt_1_TLE.cpp) |
+| 2 | 8/13/2026, 11:03:39 AM | ✅ Accepted | C++ | [`2105006606_Attempt_2_AC.cpp`](./2105006606_Attempt_2_AC.cpp) |
