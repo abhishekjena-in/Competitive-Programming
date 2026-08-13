@@ -4,13 +4,13 @@ Automated syncing across platforms powered by **CP-GitSync**.
 
 ## 📊 Performance Summary
 - **Total Unique Problems Solved:** 11
-- **Total Code Solution Files Tracked:** 30
+- **Total Code Solution Files Tracked:** 31
 
 ### 📁 Platform Directory
 | Platform | Folder Path | Unique Solved / Total Files Tracked |
 | :--- | :--- | :---: |
 | **CodeKata** | [`/CodeKata`](./CodeKata) | 0 / 0 |
-| **GeeksforGeeks** | [`/GeeksforGeeks`](./GeeksforGeeks) | 2 / 5 |
+| **GeeksforGeeks** | [`/GeeksforGeeks`](./GeeksforGeeks) | 2 / 6 |
 | **LeetCode** | [`/LeetCode`](./LeetCode) | 3 / 9 |
 | **Codeforces** | [`/Codeforces`](./Codeforces) | 5 / 14 |
 | **CodeChef** | [`/CodeChef`](./CodeChef) | 0 / 0 |
