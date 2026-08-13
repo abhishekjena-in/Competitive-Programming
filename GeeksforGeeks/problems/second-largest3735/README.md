@@ -32,3 +32,4 @@ _No sample test cases provided._
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/13/2026, 6:41:38 AM | ❌ Wrong Answer | Java | [`gfg_1786583495773_Attempt_1_WA.java`](./gfg_1786583495773_Attempt_1_WA.java) |
+| 2 | 8/13/2026, 6:44:26 AM | ❌ Wrong Answer | Java | [`gfg_1786583663085_Attempt_2_WA.java`](./gfg_1786583663085_Attempt_2_WA.java) |
