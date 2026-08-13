@@ -86,3 +86,4 @@ N/A
 | Attempt | Date & Time | Verdict | Language | File |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/13/2026, 3:54:59 PM | ✅ Accepted | C++ | [`2105298244_Attempt_1_AC.cpp`](./2105298244_Attempt_1_AC.cpp) |
+| 2 | 8/13/2026, 3:55:53 PM | ✅ Accepted | C++ | [`2105299159_Attempt_2_AC.cpp`](./2105299159_Attempt_2_AC.cpp) |
