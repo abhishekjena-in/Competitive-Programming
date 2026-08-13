@@ -1,0 +1,38 @@
+# [Minimum-Jumps]
+
+**Platform:** GeeksforGeeks
+**Limits:** N/A | N/A
+**Link:** [Problem Statement](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+
+---
+
+### 📝 Problem Statement
+Given an array arr[] of non-negative numbers. Each number tells you the maximum number of steps you can jump forward from that position.
+
+For example:
+
+Find the minimum number of jumps needed to move from the first position in the array to the last position.
+
+Note:  Return -1 if you can't reach the end of the array.
+
+Examples :
+
+---
+
+### 📥 Input / Output Specification
+**Input:** Standard Input
+**Output:** Standard Output
+
+---
+
+### 🧪 Sample Tests
+_No sample test cases provided._
+
+
+
+---
+
+### 📊 Submission History
+| Attempt | Date & Time | Verdict | Language | File |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | 8/13/2026, 7:07:32 AM | ❌ Wrong Answer | Java | [`gfg_1786585049809_Attempt_1_WA.java`](./gfg_1786585049809_Attempt_1_WA.java) |
