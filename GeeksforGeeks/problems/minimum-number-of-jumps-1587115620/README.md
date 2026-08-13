@@ -37,3 +37,4 @@ _No sample test cases provided._
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | 8/13/2026, 7:07:32 AM | ❌ Wrong Answer | Java | [`gfg_1786585049809_Attempt_1_WA.java`](./gfg_1786585049809_Attempt_1_WA.java) |
 | 2 | 8/13/2026, 7:13:49 AM | ❌ Wrong Answer | Java | [`gfg_1786585427060_Attempt_2_WA.java`](./gfg_1786585427060_Attempt_2_WA.java) |
+| 3 | 8/13/2026, 9:01:41 AM | ❌ Wrong Answer | Java | [`gfg_1786591897785_Attempt_3_WA.java`](./gfg_1786591897785_Attempt_3_WA.java) |
