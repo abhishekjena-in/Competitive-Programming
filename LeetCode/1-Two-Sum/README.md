@@ -104,3 +104,4 @@ N/A
 | 1 | 8/8/2026, 12:34:39 PM | ❌ Runtime Error | C++ | [`2098779033_Attempt_1_RTE.cpp`](./2098779033_Attempt_1_RTE.cpp) |
 | 2 | 8/8/2026, 12:35:30 PM | ❌ Time Limit Exceeded | C++ | [`2098779900_Attempt_2_TLE.cpp`](./2098779900_Attempt_2_TLE.cpp) |
 | 3 | 8/8/2026, 12:42:24 PM | ✅ Accepted | C++ | [`2098786573_Attempt_3_AC.cpp`](./2098786573_Attempt_3_AC.cpp) |
+| 4 | 8/13/2026, 3:46:23 PM | ✅ Accepted | C++ | [`2105289440_Attempt_4_AC.cpp`](./2105289440_Attempt_4_AC.cpp) |
