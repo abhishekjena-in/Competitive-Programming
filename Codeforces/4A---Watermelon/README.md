@@ -1,44 +1,11 @@
 # [4A---Watermelon]
 
 **Platform:** Codeforces
-**Limits:** 1 second | 64 megabytes
 **Link:** [Problem Statement](https://codeforces.com/problemset/problem/4/A)
 
 ---
 
-### 📝 Problem Statement
-One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed w kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.
-
-Pete and Billy are great fans of even numbers, that's why they want to divide the watermelon in such a way that each of the two parts weighs even number of kilos, at the same time it is not obligatory that the parts are equal. The boys are extremely tired and want to start their meal as soon as possible, that's why you should help them and find out, if they can divide the watermelon in the way they want. For sure, each of them should get a part of positive weight.
-
----
-
-### 📥 Input / Output Specification
-**Input:**
-The first (and the only) input line contains integer number w (1 ≤ w ≤ 100) — the weight of the watermelon bought by the boys.
-
-
-**Output:**
-Print YES, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and NO in the opposite case.
-
----
-
-### 🧪 Sample Tests
-
-#### Example 1
-**Input:**
-```text
-8
-```
-**Output:**
-```text
-YES
-```
-
----
-
-### 💡 Note
-For example, the boys can divide the watermelon into two parts of 2 and 6 kilos respectively (another variant — two parts of 4 and 4 kilos).
+<div class="problem-statement"><div class="header"><div class="title">A. Watermelon</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed <span class="tex-span"><i>w</i></span> kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.</p><p>Pete and Billy are great fans of even numbers, that's why they want to divide the watermelon in such a way that each of the two parts weighs even number of kilos, at the same time it is not obligatory that the parts are equal. The boys are extremely tired and want to start their meal as soon as possible, that's why you should help them and find out, if they can divide the watermelon in the way they want. For sure, each of them should get a part of positive weight.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first (and the only) input line contains integer number <span class="tex-span"><i>w</i></span> (<span class="tex-span">1 ≤ <i>w</i> ≤ 100</span>) — the weight of the watermelon bought by the boys.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print <span class="tex-font-style-tt">YES</span>, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and <span class="tex-font-style-tt">NO</span> in the opposite case.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input</div><pre id="id0030699572782003615">8<br></pre></div><div class="output"><div class="title">Output</div><pre id="id008787665892330991">YES<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>For example, the boys can divide the watermelon into two parts of 2 and 6 kilos respectively (another variant — two parts of 4 and 4 kilos).</p></div></div>
 
 ---
 
@@ -72,4 +39,5 @@ For example, the boys can divide the watermelon into two parts of 2 and 6 kilos 
 | 25 | 385520577 | Aug/04/2026 15:32UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | Java 21 | [`385520577_Attempt_25_CE.java`](./385520577_Attempt_25_CE.java) |
 | 26 | 385893277 | Aug/06/2026 19:11UTC+5.5 | ❌ Wrong answer on test 2 | 62 ms | 0 KB | C++20 (GCC 13-64) | [`385893277_Attempt_26_WA.cpp`](./385893277_Attempt_26_WA.cpp) |
 | 27 | 385893679 | Aug/06/2026 19:14UTC+5.5 | ✅ Accepted | 92 ms | 100 KB | C++20 (GCC 13-64) | [`385893679_Attempt_27_AC.cpp`](./385893679_Attempt_27_AC.cpp) |
-| 28 | 387006091 | Aug/14/2026 14:22UTC+5.5 | ✅ Accepted | 92 ms | 0 KB | C++20 (GCC 13-64) | [`387006091_Attempt_28_AC.cpp`](./387006091_Attempt_28_AC.cpp) |
+| 28 | 387006091 | Aug/14/2026 14:22UTC+5.5 | ✅ Accepted | 92 ms | 0 KB | C++20 (GCC 13-64) | [`387006091_Attempt_28_AC.cpp`](./387006091_Attempt_28_AC.cpp) |
+| 29 | 387006875 | Aug/14/2026 14:30UTC+5.5 | ✅ Accepted | 92 ms | 100 KB | C++20 (GCC 13-64) | [`387006875_Attempt_29_AC.cpp`](./387006875_Attempt_29_AC.cpp) |
