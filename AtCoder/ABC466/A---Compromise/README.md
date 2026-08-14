@@ -27,13 +27,7 @@ If your happiness will be negative no matter which choice you choose, output Yes
 **Constraints:**
 
 
----
-
-### 📥 Input / Output Specification
-**Input:** Standard Input
-**Output:** Standard Output
-
----
+--- 
 
 ### 🧪 Sample Tests
 
@@ -73,8 +67,6 @@ No
 ```
 
 
-
-
 ---
 
 ### 📊 Submission History
@@ -85,3 +77,4 @@ No
 | 3 | 77561455 | 2026-07-18 14:13:06 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`77561455_Attempt_3_AC.java`](./77561455_Attempt_3_AC.java) |
 | 4 | 78115485 | 2026-08-04 15:40:15 | ❌ CE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78115485_Attempt_4_CE.java`](./78115485_Attempt_4_CE.java) |
 | 5 | 78115496 | 2026-08-04 15:40:51 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78115496_Attempt_5_AC.java`](./78115496_Attempt_5_AC.java) |
+| 6 | 78355004 | 2026-08-14 13:57:49 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78355004_Attempt_6_AC.java`](./78355004_Attempt_6_AC.java) |
