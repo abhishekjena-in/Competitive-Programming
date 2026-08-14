@@ -74,7 +74,8 @@ No
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 77561224 | 2026-07-18 14:07:42 | ❌ CE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`77561224_Attempt_1_CE.java`](./77561224_Attempt_1_CE.java) |
 | 2 | 77561359 | 2026-07-18 14:10:56 | ❌ WA | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`77561359_Attempt_2_WA.java`](./77561359_Attempt_2_WA.java) |
-| 3 | 77561455 | 2026-07-18 14:13:06 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`77561455_Attempt_3_AC.java`](./77561455_Attempt_3_AC.java) |
+| 3 | 77561455 | 2026-07-18 14:13:06 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`77561455_Attempt_3_AC.java`](./77561455_Attempt_3_AC.java) |
 | 4 | 78115485 | 2026-08-04 15:40:15 | ❌ CE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78115485_Attempt_4_CE.java`](./78115485_Attempt_4_CE.java) |
-| 5 | 78115496 | 2026-08-04 15:40:51 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78115496_Attempt_5_AC.java`](./78115496_Attempt_5_AC.java) |
-| 6 | 78355004 | 2026-08-14 13:57:49 | ❌ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78355004_Attempt_6_AC.java`](./78355004_Attempt_6_AC.java) |
+| 5 | 78115496 | 2026-08-04 15:40:51 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78115496_Attempt_5_AC.java`](./78115496_Attempt_5_AC.java) |
+| 6 | 78355004 | 2026-08-14 13:57:49 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78355004_Attempt_6_AC.java`](./78355004_Attempt_6_AC.java) |
+| 7 | 78355065 | 2026-08-14 14:00:34 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78355065_Attempt_7_AC.java`](./78355065_Attempt_7_AC.java) |
