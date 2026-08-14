@@ -14,11 +14,11 @@ Pete and Billy are great fans of even numbers, that's why they want to divide th
 ---
 
 ### 📥 Input / Output Specification
-**Input:** Input
-
+**Input:**
 The first (and the only) input line contains integer number w (1 ≤ w ≤ 100) — the weight of the watermelon bought by the boys.
-**Output:** Output
 
+
+**Output:**
 Print YES, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and NO in the opposite case.
 
 ---
@@ -27,21 +27,18 @@ Print YES, if the boys can divide the watermelon into two parts, each of them we
 
 #### Example 1
 **Input:**
-```
+```text
 8
 ```
 **Output:**
-```
+```text
 YES
 ```
 
+---
 
---- 
 ### 💡 Note
-Note
-
 For example, the boys can divide the watermelon into two parts of 2 and 6 kilos respectively (another variant — two parts of 4 and 4 kilos).
-
 
 ---
 
@@ -74,4 +71,5 @@ For example, the boys can divide the watermelon into two parts of 2 and 6 kilos 
 | 24 | 385231455 | Aug/02/2026 11:27UTC+5.5 | ✅ Accepted | 500 ms | 1700 KB | Java 21 | [`385231455_Attempt_24_AC.java`](./385231455_Attempt_24_AC.java) |
 | 25 | 385520577 | Aug/04/2026 15:32UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | Java 21 | [`385520577_Attempt_25_CE.java`](./385520577_Attempt_25_CE.java) |
 | 26 | 385893277 | Aug/06/2026 19:11UTC+5.5 | ❌ Wrong answer on test 2 | 62 ms | 0 KB | C++20 (GCC 13-64) | [`385893277_Attempt_26_WA.cpp`](./385893277_Attempt_26_WA.cpp) |
-| 27 | 385893679 | Aug/06/2026 19:14UTC+5.5 | ✅ Accepted | 92 ms | 100 KB | C++20 (GCC 13-64) | [`385893679_Attempt_27_AC.cpp`](./385893679_Attempt_27_AC.cpp) |
+| 27 | 385893679 | Aug/06/2026 19:14UTC+5.5 | ✅ Accepted | 92 ms | 100 KB | C++20 (GCC 13-64) | [`385893679_Attempt_27_AC.cpp`](./385893679_Attempt_27_AC.cpp) |
+| 28 | 387006091 | Aug/14/2026 14:22UTC+5.5 | ✅ Accepted | 92 ms | 0 KB | C++20 (GCC 13-64) | [`387006091_Attempt_28_AC.cpp`](./387006091_Attempt_28_AC.cpp) |
