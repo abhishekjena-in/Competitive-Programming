@@ -7,25 +7,14 @@
 ---
 
 ### 📝 Problem Statement
-There are 
-𝑁
-N choices.
-
-You will choose one of these choices. If you choose the 
-𝑖
-i-th choice, your happiness will be 
-𝑋
-𝑖
-X
-i
-	​
-
-.
-
+There are  N  choices.
+You will choose one of these choices. If you choose the  i -th choice, your happiness will be  X_i .
 If your happiness will be negative no matter which choice you choose, output Yes; otherwise, output No.
 
 **Constraints:**
-
+2 \leq N \leq 10 
+ -100 \leq X_i \leq 100 
+All input values are integers.
 
 --- 
 
@@ -79,3 +68,4 @@ No
 | 5 | 78115496 | 2026-08-04 15:40:51 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78115496_Attempt_5_AC.java`](./78115496_Attempt_5_AC.java) |
 | 6 | 78355004 | 2026-08-14 13:57:49 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78355004_Attempt_6_AC.java`](./78355004_Attempt_6_AC.java) |
 | 7 | 78355065 | 2026-08-14 14:00:34 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78355065_Attempt_7_AC.java`](./78355065_Attempt_7_AC.java) |
+| 8 | 78355240 | 2026-08-14 14:07:38 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78355240_Attempt_8_AC.java`](./78355240_Attempt_8_AC.java) |
