@@ -78,3 +78,4 @@ In the order  k = 1, 2, \ldots, M , output the maximum size of a ball of color  
 | 3 | 78368778 | 2026-08-15 11:00:11 | ❌ CE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78368778_Attempt_3_CE.java`](./78368778_Attempt_3_CE.java) |
 | 4 | 78371563 | 2026-08-15 13:39:02 | ❌ CE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78371563_Attempt_4_CE.java`](./78371563_Attempt_4_CE.java) |
 | 5 | 78371570 | 2026-08-15 13:39:25 | ❌ CE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78371570_Attempt_5_CE.java`](./78371570_Attempt_5_CE.java) |
+| 6 | 78371580 | 2026-08-15 13:39:56 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78371580_Attempt_6_AC.java`](./78371580_Attempt_6_AC.java) |
