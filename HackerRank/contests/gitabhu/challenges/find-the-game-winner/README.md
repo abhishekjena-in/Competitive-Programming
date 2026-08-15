@@ -70,3 +70,4 @@ Your output must consist of a single line containing two integers W and L, where
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | hr_1786771661663 | 8/15/2026, 10:57:49 AM | ✅ Accepted | 0 ms | 0 KB | Java 15 | [`hr_1786771661663_Attempt_1_AC.java`](./hr_1786771661663_Attempt_1_AC.java) |
+| 2 | hr_1786771733557 | 8/15/2026, 10:59:15 AM | ❌ Compilation Error | 0 ms | 0 KB | Java 15 | [`hr_1786771733557_Attempt_2_CE.java`](./hr_1786771733557_Attempt_2_CE.java) |
