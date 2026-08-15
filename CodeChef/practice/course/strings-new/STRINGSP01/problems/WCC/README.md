@@ -68,4 +68,5 @@ NNDNNDDDNNDNDN
 ### 📊 Submission History
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | cc_1786758464988 | 8/15/2026, 7:17:50 AM | ❌ Compilation Error | 0 ms | 0 KB | Java | [`cc_1786758464988_Attempt_1_CE.java`](./cc_1786758464988_Attempt_1_CE.java) |
+| 1 | cc_1786758464988 | 8/15/2026, 7:17:50 AM | ❌ Compilation Error | 0 ms | 0 KB | Java | [`cc_1786758464988_Attempt_1_CE.java./cc_1786758464988_Attempt_1_CE.java`](./cc_1786758464988_Attempt_1_CE.java./cc_1786758464988_Attempt_1_CE.java) |
+| 2 | cc_1786758580878 | 8/15/2026, 7:19:47 AM | ❌ Compilation Error | 0 ms | 0 KB | Java | [`cc_1786758580878_Attempt_2_CE.java`](./cc_1786758580878_Attempt_2_CE.java) |
