@@ -59,3 +59,4 @@ DD/MM/YYYY
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | cc_1786759933372 | 8/15/2026, 7:42:21 AM | ❌ Compilation Error | 0 ms | 0 KB | Java | [`cc_1786759933372_Attempt_1_CE.java`](./cc_1786759933372_Attempt_1_CE.java) |
+| 2 | cc_1786760037776 | 8/15/2026, 7:44:07 AM | ❌ Compilation Error | 0 ms | 0 KB | Java | [`cc_1786760037776_Attempt_2_CE.java`](./cc_1786760037776_Attempt_2_CE.java) |
