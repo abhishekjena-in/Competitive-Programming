@@ -88,3 +88,4 @@ Nein
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 78475540 | 2026-08-16 22:10:34 | ❌ CE | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78475540_Attempt_1_CE.java`](./78475540_Attempt_1_CE.java) |
+| 2 | 78475545 | 2026-08-16 22:10:56 | ❌ WA | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78475545_Attempt_2_WA.java`](./78475545_Attempt_2_WA.java) |
