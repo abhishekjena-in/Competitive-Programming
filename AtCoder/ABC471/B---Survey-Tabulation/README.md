@@ -82,3 +82,5 @@ x
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 78494383 | 2026-08-17 20:23:56 | ❌ WA | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78494383_Attempt_1_WA.java`](./78494383_Attempt_1_WA.java) |
+| 2 | 78494418 | 2026-08-17 20:26:14 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78494418_Attempt_2_AC.java`](./78494418_Attempt_2_AC.java) |
+| 3 | 78494462 | 2026-08-17 20:28:52 | ✅ AC | 0 ms | 0 KB | Java24 (OpenJDK 24.0.2) | [`78494462_Attempt_3_AC.java`](./78494462_Attempt_3_AC.java) |
