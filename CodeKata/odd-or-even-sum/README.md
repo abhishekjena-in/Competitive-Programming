@@ -40,3 +40,4 @@ odd
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | ck_1787294278767 | 8/21/2026, 12:08:04 PM | ✅ Accepted | 0 ms | 0 KB | JAVA | [`ck_1787294278767_Attempt_1_AC.java`](./ck_1787294278767_Attempt_1_AC.java) |
+| 2 | ck_1787294278767 | 8/21/2026, 12:08:09 PM | ✅ Accepted | 0 ms | 0 KB | JAVA | [`ck_1787294278767_Attempt_2_AC.java`](./ck_1787294278767_Attempt_2_AC.java) |
