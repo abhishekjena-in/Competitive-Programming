@@ -40,3 +40,4 @@ Explanation: It's already sorted in ascending order.
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | gfg_1787457264662 | 8/23/2026, 9:24:37 AM | ❌ Wrong Answer | 0 ms | 0 KB | Java | [`gfg_1787457264662_Attempt_1_WA.java`](./gfg_1787457264662_Attempt_1_WA.java) |
+| 2 | gfg_1787462712741 | 8/23/2026, 10:55:26 AM | ✅ Accepted | 0 ms | 0 KB | Java | [`gfg_1787462712741_Attempt_2_AC.java`](./gfg_1787462712741_Attempt_2_AC.java) |
