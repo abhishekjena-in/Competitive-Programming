@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problems%20Solved-40-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Files-96-0969da?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Accuracy-57.3%25-bf8700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Files-97-0969da?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accuracy-57.7%25-bf8700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Synced%20With-CP--GitSync-8250df?style=for-the-badge" />
 </p>
 
@@ -20,10 +20,10 @@
 | Metric | Count / Status |
 | :---: | :---: |
 | 🎯 **Total Solved Problems** | **`40`** |
-| 📂 **Total Solutions & Attempts** | **`96`** |
-| ✅ **Accepted Solutions** | **`55`** |
+| 📂 **Total Solutions & Attempts** | **`97`** |
+| ✅ **Accepted Solutions** | **`56`** |
 | ❌ **Debugging Submissions (WA / RTE / TLE)** | **`41`** |
-| 📈 **Overall First-Pass / Submission Accuracy** | **`57.3%`** |
+| 📈 **Overall First-Pass / Submission Accuracy** | **`57.7%`** |
 
 </div>
 
@@ -39,7 +39,7 @@
 | **LeetCode** | [`/LeetCode`](./LeetCode) | `8` | `18` |
 | **CodeChef** | [`/CodeChef`](./CodeChef) | `3` | `9` |
 | **GeeksforGeeks** | [`/GeeksforGeeks`](./GeeksforGeeks) | `10` | `21` |
-| **CodeKata (GUVI)** | [`/CodeKata`](./CodeKata) | `4` | `5` |
+| **CodeKata (GUVI)** | [`/CodeKata`](./CodeKata) | `4` | `6` |
 | **HackerRank** | [`/HackerRank`](./HackerRank) | `1` | `2` |
 | **AtCoder** | [`/AtCoder`](./AtCoder) | `6` | `17` |
 
@@ -53,9 +53,9 @@
 
 | Language | Files Tracked | Share |
 | :---: | :---: | :---: |
-| **Java** | `49` | `51.0%` |
-| **C++** | `42` | `43.8%` |
-| **JavaScript** | `4` | `4.2%` |
+| **Java** | `49` | `50.5%` |
+| **C++** | `43` | `44.3%` |
+| **JavaScript** | `4` | `4.1%` |
 | **Python** | `1` | `1.0%` |
 
 </div>
